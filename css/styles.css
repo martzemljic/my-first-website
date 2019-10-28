@@ -1,0 +1,41 @@
+body {
+background-color: #fadcf7;
+}
+
+
+h1 {
+color: red;
+}
+
+p{
+  color: blue;
+}
+
+h2  {
+color: :red;
+}
+
+div#main {
+  background-color: #f7f0f7;
+  width: 54%;
+}
+
+div#title {
+text-align: center;
+font-size: 32px;
+background-color: #f7f5f5;
+font-style: oblique;
+}
+
+div#container{
+  background-color: white;
+}
+
+div.section {
+  color: white;
+  background-color: black;
+  font-size: 32px;
+  width: 33.333%;
+  float: left;
+  align-content: center;
+}
